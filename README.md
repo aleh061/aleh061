@@ -28,6 +28,7 @@
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Git" height="40" width="40"
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40"/>
 </div>
 
 ---
@@ -36,7 +37,6 @@
 - Lógica de Programação
 - Programação Orientada a Objetos
 - Desenvolvimento Front-end
-- Versionamento com Git e GitHub
 - Noções de Back-end (Node.js)
 
 ---
