@@ -48,7 +48,7 @@ Atuar como **Desenvolvedor de Software**, contribuindo com soluções tecnológi
 
 ## 📫 Contato
 - 📧 Email: **menesesalessandro2@gmail.com**
-- 💼 LinkedIn: *(adicione seu link aqui)*
+- 💼 LinkedIn: https://www.linkedin.com/in/alessandro-meneses-657153294
 - 📍 Localização: Planaltina – DF, Brasil
 
 ---
